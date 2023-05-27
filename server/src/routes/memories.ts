@@ -54,15 +54,15 @@ export async function memoriesRoutes(app: FastifyInstance) {
       coverUrl: z.string(),
       isPublic: z.coerce.boolean().default(false),
     });
-
+    
     const { content, coverUrl, isPublic } = bodySchema.parse(request.body);
-
+    
     const memory = await prisma.memory.create({
       data: {
         content,
         coverUrl,
         isPublic,
-        userId: "8792777b-e334-4879-9c1c-7e5f21585e5e",
+        userId: request.user.sub,
       },
     });
 

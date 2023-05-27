@@ -55,8 +55,8 @@ export default function App() {
         }}
       >
         <Stack.Screen name="index" redirect={isUserAothenticated} />
-        <Stack.Screen name="new" />
         <Stack.Screen name="memories" />
+        <Stack.Screen name="new" />
       </Stack>
     </ImageBackground>
   );
