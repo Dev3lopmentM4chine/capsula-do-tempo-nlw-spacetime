@@ -1,15 +1,13 @@
 # NLW Spacetime - Rockseat - FullStack Project
+
 <a id="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Content</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About the project</a>
     </li>
     <!-- <li>
       <a href="#getting-started">Getting Started</a>
@@ -18,83 +16,52 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li> -->
-    <li><a href="#usage">Usage</a></li>
+    <!-- <li><a href="#usage">Usage</a></li> -->
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## Sobre o projeto
 
-[![NLW Spacetime Screen Shot][product-screenshot-web]]()
-[![NLW Spacetime Screen Shot][product-screenshot-mobile]]()
+### Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Tecnologias utilizadas
-
-* [![Next][Next.js]][Next-url]
+![NLW Spacetime Screen Shot][product-screenshot-web]
+![NLW Spacetime Screen Shot][product-screenshot-mobile]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Tecnologias utilizadas:
+
+- ![Yarn][Yarn]
+- ![Next JS][NextJS]
+- ![React Native][ReactNative]
+- ![Expo][Expo]
+- ![Tailwind CSS][TailwindCSS]
+- ![Prisma][Prisma]
+- ![Fastify][Fastify]
+- ![SQLite][SQLite]
+- ![Postgres][Postgres]
+- ![Insomnia][Insomnia]
 
 
-<!-- GETTING STARTED -->
-<!-- ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [] Deploy
 - [] Upload de vídeos
-
-
+- [] Responsividade na versão web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Lucas Samuel F.S. - [LinkedIn](https://www.linkedin.com/in/lucasfelicianosilva/) - felicianodasilvalucassamuel@gmail.com
@@ -105,6 +72,7 @@ Lucas Samuel F.S. - [LinkedIn](https://www.linkedin.com/in/lucasfelicianosilva/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -119,6 +87,16 @@ Lucas Samuel F.S. - [LinkedIn](https://www.linkedin.com/in/lucasfelicianosilva/)
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot-web]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI5YTg4YjA4MGNhODA0Zjg2NzVkODhjOWVlNTNkZmQ5YWEzMGQzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QXOFAVN4wkrOp6v6P7/giphy.gif
 [product-screenshot-mobile]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkzMjdlY2M1YmY5ZWE5MzA4ZmQzMmQ1OTc3Zjg5YWViMTQ4MTgzYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/G6ydnLNA12qasITT6f/giphy.gif
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+
+<!-- Tecnologias -->
+[NextJS]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[Expo]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
+[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white 
+[Insomnia]: https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE
+[ReactNative]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Yarn]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
+[Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+[Fastify]: https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white
 
