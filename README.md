@@ -39,6 +39,7 @@
 - ![Yarn][Yarn]
 - ![Next JS][NextJS]
 - ![React Native][ReactNative]
+- ![Typescript][Typescript]
 - ![Expo][Expo]
 - ![Tailwind CSS][TailwindCSS]
 - ![Prisma][Prisma]
@@ -99,4 +100,5 @@ Lucas Samuel F.S. - [LinkedIn](https://www.linkedin.com/in/lucasfelicianosilva/)
 [Yarn]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
 [Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
 [Fastify]: https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white
+[Typescript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
 
